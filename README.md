@@ -39,7 +39,7 @@ LLM, кроссплатформенные приложения и внутрен
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ [Museum at Home](https://github.com/Saborrr/art-screensaver-webos)
+### 🖼️ [Museum at Home](https://github.com/Saborrr/museum-at-home)
 
 Домашняя художественная галерея для LG webOS 3+, Android TV, Fire TV, Samsung
 Tizen и браузера. 55 проверенных работ, офлайн-каталог, управление пультом и
